@@ -1,1 +1,1 @@
-# EK_DotNetConsoleProjects
+# Dot Net / Core Console Projects
